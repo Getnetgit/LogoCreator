@@ -1,4 +1,5 @@
 const {Circle,Tringle,Square}=require('../lib/shapes.js')
+//The follwing tests will check the renderShape function of each shape class
 
 describe('Circle',()=>{
     test('Should generate SVG for Circle',()=>{
